@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PM03_Mokeeva_PKspk220", "PM03_Mokeeva_PKspk220\PM03_Mokeeva_PKspk220.csproj", "{A1692EB7-7699-4BF6-95F4-774C66EA8154}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1692EB7-7699-4BF6-95F4-774C66EA8154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1692EB7-7699-4BF6-95F4-774C66EA8154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1692EB7-7699-4BF6-95F4-774C66EA8154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1692EB7-7699-4BF6-95F4-774C66EA8154}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6BE9395-E357-47EA-8724-DEA3029C001E}
+	EndGlobalSection
+EndGlobal
