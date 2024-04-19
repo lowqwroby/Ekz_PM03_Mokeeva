@@ -10,8 +10,10 @@ namespace PM03_Mokeeva_PKspk220
             try
             {
                 int n;
+                
                 Console.Write("Введите n: ");
                 n = int.Parse(Console.ReadLine());
+
                 Fish[] mas = new Fish[n];            
 
                 FishControl fish = new FishControl(mas, n);
@@ -30,7 +32,7 @@ namespace PM03_Mokeeva_PKspk220
             }
             catch (Exception ex)
             {
-                Console.WriteLine(ex);
+                Console.WriteLine("Произошла ошибка: \n" + ex);
             }
             
         }
