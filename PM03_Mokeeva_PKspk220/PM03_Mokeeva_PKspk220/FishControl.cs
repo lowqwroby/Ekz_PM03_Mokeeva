@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.IO;
 
 namespace PM03_Mokeeva_PKspk220
 {
@@ -24,12 +25,15 @@ namespace PM03_Mokeeva_PKspk220
 
                 for(int i = 0; i < mas.Length; i++)
                 {
+                    Console.WriteLine("Рыба №" + (i + 1) + "\n");
                     Console.Write("Введите вид рыбы: ");
                     t = Console.ReadLine();
                     Console.Write("Введите производителя рыбы: ");
                     prz = Console.ReadLine();
                     Console.Write("Введите цену рыбы: ");
                     pr = Console.ReadLine();
+
+                    Console.WriteLine();
 
                     mas[i] = new Fish(t, prz, pr);
 
@@ -63,6 +67,32 @@ namespace PM03_Mokeeva_PKspk220
             }            
         }
 
+        public string ToStringFish(Fish mas)
+        {
+            return "Вид рыбы: " + mas.type + "\nПроизводитель рыбы: " + mas.proiz + "\nЦена рыбы: " + mas.price + "\n";
+        }
+
+        public void ReadInFile()
+        {
+            try
+            {
+                using (StreamWriter write = new StreamWriter("fish.txt"))
+                {
+                    for (int i = 0; i < mas.Length; i++)
+                    {
+                        write.Write(ToStringFish(mas[i]));
+                    }
+                    write.Write("\n\r\n\r");
+                }                 
+
+                Console.WriteLine("Запись в файл произведена успешно");
+            }
+            catch(Exception ex)
+            {
+                Console.Write(ex);
+            }
+            
+        }
 
     }
 }
