@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\stu-pkspk220\\source\\repos\\lowqwroby\\Ekz_PM03_Mokeeva\\PM03_Mokeeva_PKspk220\\PM03_Mokeeva_PKspk220\\PM03_Mokeeva_PKspk220.csproj": {}
+    "D:\\Users\\stu-pkspk220\\source\\repos\\lowqwroby\\Ekz_PM03_Mokeeva\\src\\PM03_Mokeeva_PKspk220\\PM03_Mokeeva_PKspk220\\PM03_Mokeeva_PKspk220.csproj": {}
   },
   "projects": {
-    "D:\\Users\\stu-pkspk220\\source\\repos\\lowqwroby\\Ekz_PM03_Mokeeva\\PM03_Mokeeva_PKspk220\\PM03_Mokeeva_PKspk220\\PM03_Mokeeva_PKspk220.csproj": {
+    "D:\\Users\\stu-pkspk220\\source\\repos\\lowqwroby\\Ekz_PM03_Mokeeva\\src\\PM03_Mokeeva_PKspk220\\PM03_Mokeeva_PKspk220\\PM03_Mokeeva_PKspk220.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\stu-pkspk220\\source\\repos\\lowqwroby\\Ekz_PM03_Mokeeva\\PM03_Mokeeva_PKspk220\\PM03_Mokeeva_PKspk220\\PM03_Mokeeva_PKspk220.csproj",
+        "projectUniqueName": "D:\\Users\\stu-pkspk220\\source\\repos\\lowqwroby\\Ekz_PM03_Mokeeva\\src\\PM03_Mokeeva_PKspk220\\PM03_Mokeeva_PKspk220\\PM03_Mokeeva_PKspk220.csproj",
         "projectName": "PM03_Mokeeva_PKspk220",
-        "projectPath": "D:\\Users\\stu-pkspk220\\source\\repos\\lowqwroby\\Ekz_PM03_Mokeeva\\PM03_Mokeeva_PKspk220\\PM03_Mokeeva_PKspk220\\PM03_Mokeeva_PKspk220.csproj",
+        "projectPath": "D:\\Users\\stu-pkspk220\\source\\repos\\lowqwroby\\Ekz_PM03_Mokeeva\\src\\PM03_Mokeeva_PKspk220\\PM03_Mokeeva_PKspk220\\PM03_Mokeeva_PKspk220.csproj",
         "packagesPath": "D:\\Users\\stu-pkspk220\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\stu-pkspk220\\source\\repos\\lowqwroby\\Ekz_PM03_Mokeeva\\PM03_Mokeeva_PKspk220\\PM03_Mokeeva_PKspk220\\obj\\",
+        "outputPath": "D:\\Users\\stu-pkspk220\\source\\repos\\lowqwroby\\Ekz_PM03_Mokeeva\\src\\PM03_Mokeeva_PKspk220\\PM03_Mokeeva_PKspk220\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
