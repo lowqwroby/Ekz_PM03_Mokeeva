@@ -1,0 +1,13 @@
+D:\Users\stu-pkspk220\source\repos\lowqwroby\Ekz_PM03_Mokeeva\PM03_Mokeeva_PKspk220\PM03_Mokeeva_PKspk220\bin\Debug\netcoreapp3.1\PM03_Mokeeva_PKspk220.exe
+D:\Users\stu-pkspk220\source\repos\lowqwroby\Ekz_PM03_Mokeeva\PM03_Mokeeva_PKspk220\PM03_Mokeeva_PKspk220\bin\Debug\netcoreapp3.1\PM03_Mokeeva_PKspk220.deps.json
+D:\Users\stu-pkspk220\source\repos\lowqwroby\Ekz_PM03_Mokeeva\PM03_Mokeeva_PKspk220\PM03_Mokeeva_PKspk220\bin\Debug\netcoreapp3.1\PM03_Mokeeva_PKspk220.runtimeconfig.json
+D:\Users\stu-pkspk220\source\repos\lowqwroby\Ekz_PM03_Mokeeva\PM03_Mokeeva_PKspk220\PM03_Mokeeva_PKspk220\bin\Debug\netcoreapp3.1\PM03_Mokeeva_PKspk220.runtimeconfig.dev.json
+D:\Users\stu-pkspk220\source\repos\lowqwroby\Ekz_PM03_Mokeeva\PM03_Mokeeva_PKspk220\PM03_Mokeeva_PKspk220\bin\Debug\netcoreapp3.1\PM03_Mokeeva_PKspk220.dll
+D:\Users\stu-pkspk220\source\repos\lowqwroby\Ekz_PM03_Mokeeva\PM03_Mokeeva_PKspk220\PM03_Mokeeva_PKspk220\bin\Debug\netcoreapp3.1\PM03_Mokeeva_PKspk220.pdb
+D:\Users\stu-pkspk220\source\repos\lowqwroby\Ekz_PM03_Mokeeva\PM03_Mokeeva_PKspk220\PM03_Mokeeva_PKspk220\obj\Debug\netcoreapp3.1\PM03_Mokeeva_PKspk220.csprojAssemblyReference.cache
+D:\Users\stu-pkspk220\source\repos\lowqwroby\Ekz_PM03_Mokeeva\PM03_Mokeeva_PKspk220\PM03_Mokeeva_PKspk220\obj\Debug\netcoreapp3.1\PM03_Mokeeva_PKspk220.AssemblyInfoInputs.cache
+D:\Users\stu-pkspk220\source\repos\lowqwroby\Ekz_PM03_Mokeeva\PM03_Mokeeva_PKspk220\PM03_Mokeeva_PKspk220\obj\Debug\netcoreapp3.1\PM03_Mokeeva_PKspk220.AssemblyInfo.cs
+D:\Users\stu-pkspk220\source\repos\lowqwroby\Ekz_PM03_Mokeeva\PM03_Mokeeva_PKspk220\PM03_Mokeeva_PKspk220\obj\Debug\netcoreapp3.1\PM03_Mokeeva_PKspk220.csproj.CoreCompileInputs.cache
+D:\Users\stu-pkspk220\source\repos\lowqwroby\Ekz_PM03_Mokeeva\PM03_Mokeeva_PKspk220\PM03_Mokeeva_PKspk220\obj\Debug\netcoreapp3.1\PM03_Mokeeva_PKspk220.dll
+D:\Users\stu-pkspk220\source\repos\lowqwroby\Ekz_PM03_Mokeeva\PM03_Mokeeva_PKspk220\PM03_Mokeeva_PKspk220\obj\Debug\netcoreapp3.1\PM03_Mokeeva_PKspk220.pdb
+D:\Users\stu-pkspk220\source\repos\lowqwroby\Ekz_PM03_Mokeeva\PM03_Mokeeva_PKspk220\PM03_Mokeeva_PKspk220\obj\Debug\netcoreapp3.1\PM03_Mokeeva_PKspk220.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PM03_Mokeeva_PKspk220/1.0.0": {
+        "runtime": {
+          "PM03_Mokeeva_PKspk220.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PM03_Mokeeva_PKspk220/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
